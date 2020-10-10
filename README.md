@@ -1,32 +1,33 @@
 <h1 align="center">
-    <img width="500" height="300" alt="Launchbase" title="Launchbase" src="https://user-images.githubusercontent.com/66570560/95655353-0e5da380-0add-11eb-9ef1-049a7b57c7d0.JPG"/>
+    <img width="50%" alt="Launchbase" title="Launchbase" src="https://camo.githubusercontent.com/268b1344409fac98c4eeda520482b6910c4ddcba/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f676f6c64656e2d77696e642f626f6f7463616d702d6c61756e6368626173652f6c6f676f2e706e67"/>
 </h1>
 
 
 ## **About this project**
-The project is a ecommerce created with JavaScript and SQL. 
+The project is a eCommerce website built with JavaScript and SQL (Postgres). 
+This APP was created during the bootcamp of Rocketseat[https://rocketseat.com.br/].
 
 
 ## **Functionalities**
 * The user can create, edit and delete a profile
 * The user can create, edit and delete a product
+* Login/Logout system;
+* Upload your images for the products;
 
 ## :camera: Video Walktrough
 ![launchstore1](https://user-images.githubusercontent.com/66570560/95655291-88d9f380-0adc-11eb-9803-6569e7864315.gif)
 
-
 ## **Technologies**
 The project was created with:
 
-#### FRONT-END
 - HTML
 - CSS
-- JavaScript
-
-#### BACK-END
-- SQL
-- Postgres
-
+- CommonJs
+- Node.JS
+- NodeMailer
+- Express
+- Nunjucks
+- PostgreSQL
 
 ## Installers
 If you want to instal:
