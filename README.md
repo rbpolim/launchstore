@@ -8,7 +8,7 @@ The project is a eCommerce website built with **JavaScript** and **PostgreSQL**.
 This application was developed during the LaunchBase bootcamp [Rocketseat](https://rocketseat.com.br/).
 
 
-## **Functionalities**
+## 🔧 **Functionalities**
 * The user can create, edit and delete a profile
 * The user can create, edit and delete a product
 * Login/Logout system;
@@ -22,8 +22,8 @@ The project was created with:
 
 - HTML
 - CSS
-- CommonJs
-- Node.JS
+- Javascript
+- NodeJS
 - NodeMailer
 - Express
 - Nunjucks
